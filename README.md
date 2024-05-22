@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayush K Tripathi
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Java, DSA and ML using Python
+- 🌱 I’m currently learning Java, git and DSA and ML using Python
 - 📫 How to reach me: tripathiayush431@gmail.com
 - 😄 Pronouns: he/him
 
