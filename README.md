@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 - 👯 I’m looking to collaborate on data analysis projects
 - 🤝 I’m looking for help with deep learning
 - 🌱 I’m currently learning machine learning
-- 💬 Ask me about Python, UI/UX design, Java
+- 💬 Ask me about Python, Data Analysis, UI/UX design, Java
 - 📫 How to reach me: tripathiayush431@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I do debates for fun
